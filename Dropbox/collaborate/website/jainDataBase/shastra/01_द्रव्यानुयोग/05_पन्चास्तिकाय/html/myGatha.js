@@ -78,6 +78,8 @@ document.write("        <li><a href='086.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='087.html'><font size=4><font color=darkPurple><b>080</b></font> - <font color=darkGreen>﻿अब परमाणु के एक प्रदेशत्व व्यवस्थापित करते हैं</font></font></a></li>");
 document.write("        <li><a href='088.html'><font size=4><font color=darkPurple><b>081</b></font> - <font color=darkBlue>﻿अब परमाणु द्रव्य में गुण-पर्याय के स्वरूप को कहते हैं</font></font></a></li>");
 document.write("        <li><a href='089.html'><font size=4><font color=darkPurple><b>082</b></font> - <font color=darkGreen>﻿पुदगलास्तिकाय उपसंहार</font></font></a></li>");
+document.write("        <li><a href='090.html'><font size=4><font color=darkPurple><b>083</b></font> - <font color=darkBlue>﻿धर्मास्तिकाय का स्वरूप</font></font></a></li>");
+document.write("        <li><a href='091.html'><font size=4><font color=darkPurple><b>084</b></font> - <font color=darkGreen>﻿अब धर्म के ही शेष रहे स्वरूप का प्रतिपादन करते हैं</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
