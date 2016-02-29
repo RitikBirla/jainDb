@@ -76,6 +76,8 @@ document.write("        <li><a href='084.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='085.html'><font size=4><font color=darkPurple><b>078</b></font> - <font color=darkGreen>﻿अब पृथ्वी आदि जाति से भिन्न परमाणु नहीं है, ऐसा निश्चय करते हैं</font></font></a></li>");
 document.write("        <li><a href='086.html'><font size=4><font color=darkPurple><b>079</b></font> - <font color=darkBlue>﻿अब शब्द पुद्गल-स्कन्ध की पर्याय है; ऐसा दिखाते हैं</font></font></a></li>");
 document.write("        <li><a href='087.html'><font size=4><font color=darkPurple><b>080</b></font> - <font color=darkGreen>﻿अब परमाणु के एक प्रदेशत्व व्यवस्थापित करते हैं</font></font></a></li>");
+document.write("        <li><a href='088.html'><font size=4><font color=darkPurple><b>081</b></font> - <font color=darkBlue>﻿अब परमाणु द्रव्य में गुण-पर्याय के स्वरूप को कहते हैं</font></font></a></li>");
+document.write("        <li><a href='089.html'><font size=4><font color=darkPurple><b>082</b></font> - <font color=darkGreen>﻿पुदगलास्तिकाय उपसंहार</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
