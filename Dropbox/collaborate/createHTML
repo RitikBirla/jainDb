@@ -1,0 +1,37 @@
+#!/bin/sh
+
+# Function: cinfo
+# Display colorized information output
+function cinfo {
+	COLOR='\033[01;34m'	# bold yellow
+	RESET='\033[00;00m'	# normal white
+	MESSAGE=${@:-"${RESET}Error: No message passed"}
+	echo -e "${COLOR}${MESSAGE}${RESET}"
+}
+# Function: cwarn
+# Display colorized warning output
+function cwarn {
+	COLOR='\033[01;31m'	# bold red
+	RESET='\033[00;00m'	# normal white
+	MESSAGE=${@:-"${RESET}Error: No message passed"}
+	echo -e "${COLOR}${MESSAGE}${RESET}"
+	exit 1
+}
+
+export pDir=$(basename $PWD)
+export gDir=$(basename $(dirname $PWD))
+export ggDir=$(basename $(dirname $(dirname $PWD)))
+export dbDir=$(echo $PWD | perl -i -pe 's/(.*Dropbox).*/$1/g')
+mkdir -p $dbDir/Public/HTML/myWebsite/jainDataBase/$ggDir/$gDir/$pDir/html
+../../../shastra/createHtml.sh
+
+fromDir=$(find $dbDir/Public/HTML/myWebsite/jainDataBase/$ggDir -name $pDir -type d)
+mkdir -p $dbDir/collaborate/website/jainDataBase/$ggDir/$gDir/$pDir/html
+toDir=$(find $dbDir/collaborate/website/jainDataBase/$ggDir/. -name $pDir -type d)
+
+cp -f $fromDir/html/* $toDir/html/.
+cp -f $fromDir/index.txt $toDir/.
+cp -f $fromDir/../index.txt $toDir/../.
+cp -f $fromDir/../../index.txt $toDir/../../.
+[ "$?" != "0" ] && cwarn "Copying Website Failed"
+cinfo "Copying Wensite Done"

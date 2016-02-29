@@ -1,0 +1,16 @@
+document.write("<div id=सर्वार्थसिद्धि class='dropdown dropdown-tip dropdown-scroll'>");
+document.write("  <ul class=dropdown-menu>");
+document.write("        <li><a href='01.html'><font size=4><font color=darkPurple><b>01</b></font> - <font color=darkBlue>﻿मोहक्षयाज्ज्ञान-दर्शनावरणान्तराय-क्षयाच्च केवलम्॥१॥</font></font></a></li>");
+document.write("        <li><a href='02.html'><font size=4><font color=darkPurple><b>02</b></font> - <font color=darkGreen>बन्धहेत्वभाव-निर्जराभ्यां कृत्स्न-कर्म-विप्रमोक्षो मोक्ष:॥२॥</font></font></a></li>");
+document.write("        <li><a href='03.html'><font size=4><font color=darkPurple><b>03</b></font> - <font color=darkBlue>औपशमिकादि-भव्यत्वानां च॥३॥</font></font></a></li>");
+document.write("        <li><a href='04.html'><font size=4><font color=darkPurple><b>04</b></font> - <font color=darkGreen>अन्यत्र केवलसम्यक्त्व-ज्ञान-दर्शन-सिद्धत्वेभ्य:॥४॥</font></font></a></li>");
+document.write("        <li><a href='05.html'><font size=4><font color=darkPurple><b>05</b></font> - <font color=darkBlue>﻿तदनन्तरमूर्ध्वं गच्छत्या-लोकान्तात्॥५॥</font></font></a></li>");
+document.write("        <li><a href='06.html'><font size=4><font color=darkPurple><b>06</b></font> - <font color=darkGreen>पूर्वप्रयोगादसङ्गत्वाद्-बन्धच्छेदात्तथागतिपरिणामाच्च॥६॥</font></font></a></li>");
+document.write("        <li><a href='07.html'><font size=4><font color=darkPurple><b>07</b></font> - <font color=darkBlue>आविद्धकुलालचक्रवद्-व्यपगतलेपालाबुवदेरण्डबीजवदग्निशिखावच्च॥७॥</font></font></a></li>");
+document.write("        <li><a href='08.html'><font size=4><font color=darkPurple><b>08</b></font> - <font color=darkGreen>धर्मास्तिकायाभावात्॥८॥</font></font></a></li>");
+document.write("        <li><a href='09.html'><font size=4><font color=darkPurple><b>09</b></font> - <font color=darkBlue>क्षेत्र-काल-गति-लिङ्ग-तीर्थचारित्र-प्रत्येकबुद्धबोधित-ज्ञानावगाहनान्तर-संख्याल्पबहुत्वत: साध्या:॥९॥</font></font></a></li>");
+document.write("</ul></div>");
+document.write("<div id=राजवार्तिक class='dropdown dropdown-tip dropdown-scroll'>");
+document.write("  <ul class=dropdown-menu>");
+document.write("        <li><a href='09.html'><font size=4><font color=darkPurple><b>09</b></font> - <font color=darkGreen>क्षेत्र-काल-गति-लिङ्ग-तीर्थचारित्र-प्रत्येकबुद्धबोधित-ज्ञानावगाहनान्तर-संख्याल्पबहुत्वत: साध्या:॥९॥</font></font></a></li>");
+document.write("</ul></div>");

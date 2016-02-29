@@ -1,0 +1,18 @@
+#!/bin/sh
+
+curDir=$PWD
+convert=
+[ "$1" = "-c" ] && convert="-c"
+
+while read oDir; do
+  oDir=$(echo "$oDir" | tr -d '\r')
+  echo $curDir/$oDir
+  cd $curDir/$oDir
+  while read iDir; do
+    iDir=$(echo "$iDir" | tr -d '\r')
+	cd $curDir/$oDir/$iDir
+    echo $PWD
+    /mnt/hgfs/winshare/Personal/Dropbox/collaborate/createXML.sh $convert
+  done < "index.txt"
+  cd $curDir
+done < "index.txt"

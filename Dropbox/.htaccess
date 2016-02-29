@@ -1,0 +1,1 @@
+RedirectMatch 301 /(.*) https://dl.dropboxusercontent.com/u/159625601/$1
