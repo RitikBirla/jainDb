@@ -83,6 +83,12 @@ document.write("        <li><a href='091.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='092.html'><font size=4><font color=darkPurple><b>085</b></font> - <font color=darkBlue>﻿अब धर्म के गतिहेतुत्व में लोकप्रसिद्ध दृष्टान्त कहते हैं</font></font></a></li>");
 document.write("        <li><a href='093.html'><font size=4><font color=darkPurple><b>086</b></font> - <font color=darkGreen>﻿अधर्मास्तिकाय का स्वरूप</font></font></a></li>");
 document.write("        <li><a href='094.html'><font size=4><font color=darkPurple><b>087</b></font> - <font color=darkBlue>﻿धर्माधर्म द्रव्य का अस्तित्व ण मानने पर दूषण</font></font></a></li>");
+document.write("        <li><a href='095.html'><font size=4><font color=darkPurple><b>088</b></font> - <font color=darkGreen>﻿अब, गति-स्थितिहेतुत्व के विषय में धर्म-अधर्म अत्यन्त उदासीन हैं, ऐसा निश्चित करते हैं</font></font></a></li>");
+document.write("        <li><a href='096.html'><font size=4><font color=darkPurple><b>089</b></font> - <font color=darkBlue>﻿अब धर्म-अधर्म की गति-स्थिति हेतुत्व सम्बन्धी उदासीनता के विषय में युक्ति प्रकाशित करते हैं</font></font></a></li>");
+document.write("        <li><a href='097.html'><font size=4><font color=darkPurple><b>090</b></font> - <font color=darkGreen>﻿लोकालोकाकाश-स्वरूप</font></font></a></li>");
+document.write("        <li><a href='098.html'><font size=4><font color=darkPurple><b>091</b></font> - <font color=darkBlue>﻿अब षड्द्रव्यों का समूह लोक है, उससे बाहर अनन्त आकाश अलोक है, ऐसा प्रगट करते हैं</font></font></a></li>");
+document.write("        <li><a href='099.html'><font size=4><font color=darkPurple><b>092</b></font> - <font color=darkGreen>﻿धर्माधर्म सम्बन्धी पूर्वपक्ष के निराकरणार्थ</font></font></a></li>");
+document.write("        <li><a href='100.html'><font size=4><font color=darkPurple><b>093</b></font> - <font color=darkBlue>﻿अब स्थित पक्ष (निश्चित हुए पक्ष) का प्रतिपादन करते हैं</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
