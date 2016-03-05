@@ -92,6 +92,10 @@ document.write("        <li><a href='100.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='101.html'><font size=4><font color=darkPurple><b>094</b></font> - <font color=darkGreen>﻿अब आकाश के गति-स्थिति हेतुत्व के अभावरूप साध्य में और भी कारण कहते हैं</font></font></a></li>");
 document.write("        <li><a href='102.html'><font size=4><font color=darkPurple><b>095</b></font> - <font color=darkBlue>﻿अब आकाश की गति-स्थिति कारणता के निराकरणपरक व्याख्यान का उपसंहार कहते हैं / करते हैं</font></font></a></li>");
 document.write("        <li><a href='103.html'><font size=4><font color=darkPurple><b>096</b></font> - <font color=darkGreen>﻿धर्मादि तीनों के कथंचित एकत्व-पृथक्त्व का प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='104.html'><font size=4><font color=darkPurple><b>097</b></font> - <font color=darkBlue>﻿चेतानाचेतन-मुर्तामुर्तत्व प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='105.html'><font size=4><font color=darkPurple><b>098</b></font> - <font color=darkGreen>﻿सक्रिय-निश्क्रियत्व प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='106.html'><font size=4><font color=darkPurple><b>099</b></font> - <font color=darkBlue>﻿प्रकारान्तर से मूर्तामूर्तत्व प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='107.html'><font size=4><font color=darkPurple><b>100</b></font> - <font color=darkGreen>﻿व्यवहार-निश्चय काल प्रतिपादन</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
