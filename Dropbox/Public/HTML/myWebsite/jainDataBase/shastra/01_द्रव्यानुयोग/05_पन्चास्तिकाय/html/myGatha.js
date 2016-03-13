@@ -210,4 +210,5 @@ document.write("        <li><a href='106.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='107.html'><font size=4><font color=darkPurple><b>107</b></font> - <font color=darkBlue>﻿व्यवहार-निश्चय काल प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='108.html'><font size=4><font color=darkPurple><b>108</b></font> - <font color=darkGreen>﻿अब नित्य और क्षणिक होने के कारण फिर से काल के भेद दिखाते हैं</font></font></a></li>");
 document.write("        <li><a href='109.html'><font size=4><font color=darkPurple><b>109</b></font> - <font color=darkBlue>﻿काल के द्रव्यत्व-अकायत्व का प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='110.html'><font size=4><font color=darkPurple><b>110</b></font> - <font color=darkGreen>﻿भावना-फल प्रतिपादन</font></font></a></li>");
 document.write("</ul></div>");
