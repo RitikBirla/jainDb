@@ -212,4 +212,6 @@ document.write("        <li><a href='108.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='109.html'><font size=4><font color=darkPurple><b>109</b></font> - <font color=darkBlue>﻿काल के द्रव्यत्व-अकायत्व का प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='110.html'><font size=4><font color=darkPurple><b>110</b></font> - <font color=darkGreen>﻿भावना-फल प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='111.html'><font size=4><font color=darkPurple><b>111</b></font> - <font color=darkBlue>﻿अब दु:ख से मोक्ष के कारण का क्रम कहते हैं</font></font></a></li>");
+document.write("        <li><a href='112.html'><font size=4><font color=darkPurple><b>112</b></font> - <font color=darkGreen>﻿अंतिम तीर्थंकर परम-देव को नमस्कार कर पंचास्तिकाय षड्द्रव्य सम्बन्धी नव-पदार्थ के भेद और मोक्ष-मार्ग कहता हूँ; इसप्रकार प्रतिज्ञा-पूर्वक नमस्कार करते हैं</font></font></a></li>");
+document.write("        <li><a href='113.html'><font size=4><font color=darkPurple><b>113</b></font> - <font color=darkBlue>﻿अब सर्वप्रथम मोक्षमार्ग की संक्षेप में सूचना करते हैं</font></font></a></li>");
 document.write("</ul></div>");
