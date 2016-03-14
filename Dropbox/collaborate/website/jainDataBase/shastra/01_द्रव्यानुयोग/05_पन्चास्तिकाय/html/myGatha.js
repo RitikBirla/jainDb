@@ -99,6 +99,10 @@ document.write("        <li><a href='107.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='108.html'><font size=4><font color=darkPurple><b>101</b></font> - <font color=darkBlue>﻿अब नित्य और क्षणिक होने के कारण फिर से काल के भेद दिखाते हैं</font></font></a></li>");
 document.write("        <li><a href='109.html'><font size=4><font color=darkPurple><b>102</b></font> - <font color=darkGreen>﻿काल के द्रव्यत्व-अकायत्व का प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='110.html'><font size=4><font color=darkPurple><b>103</b></font> - <font color=darkBlue>﻿भावना-फल प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='111.html'><font size=4><font color=darkPurple><b>104</b></font> - <font color=darkGreen>﻿अब दु:ख से मोक्ष के कारण का क्रम कहते हैं</font></font></a></li>");
+document.write("        <li><a href='111.html'><font size=4><font color=darkPurple><b>कलश-7</b></font> - <font color=darkBlue>﻿अब दु:ख से मोक्ष के कारण का क्रम कहते हैं</font></font></a></li>");
+document.write("        <li><a href='112.html'><font size=4><font color=darkPurple><b>105</b></font> - <font color=darkGreen>﻿अंतिम तीर्थंकर परम-देव को नमस्कार कर पंचास्तिकाय षड्द्रव्य सम्बन्धी नव-पदार्थ के भेद और मोक्ष-मार्ग कहता हूँ; इसप्रकार प्रतिज्ञा-पूर्वक नमस्कार करते हैं</font></font></a></li>");
+document.write("        <li><a href='113.html'><font size=4><font color=darkPurple><b>106</b></font> - <font color=darkBlue>﻿अब सर्वप्रथम मोक्षमार्ग की संक्षेप में सूचना करते हैं</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
