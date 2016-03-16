@@ -107,7 +107,7 @@ document.write("        <li><a href='115.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='116.html'><font size=4><font color=darkPurple><b>108</b></font> - <font color=darkBlue>﻿अब इसके बाद (द्वितीय अन्तराधिकार में सर्वप्रथम) जीवादि नवपदार्थों का मुख्य वृत्ति से नाम और गौण वृत्ति से स्वरूप कहते हैं</font></font></a></li>");
 document.write("        <li><a href='117.html'><font size=4><font color=darkPurple><b>109</b></font> - <font color=darkGreen>﻿जीव के स्वरूप का निरूपण करते हैं</font></font></a></li>");
 document.write("        <li><a href='118.html'><font size=4><font color=darkPurple><b>110</b></font> - <font color=darkBlue>﻿अब पृथ्वीकाय आदि पाँच भेदों का प्रतिपादन करते हैं</font></font></a></li>");
-document.write("        <li><a href='119.html'><font size=4>111</font></a></li>");
+document.write("        <li><a href='119.html'><font size=4><font color=darkPurple><b>111</b></font> - <font color=darkGreen>﻿व्यवहार से अग्नि और वायुकायिक जीवों के त्रसपना दिखाते हैं</font></font></a></li>");
 document.write("        <li><a href='120.html'><font size=4>112</font></a></li>");
 document.write("        <li><a href='121.html'><font size=4>113</font></a></li>");
 document.write("        <li><a href='122.html'><font size=4><font color=darkPurple><b>114</b></font> - <font color=darkBlue>﻿विकलेन्द्रिय व्याख्यान</font></font></a></li>");
@@ -237,4 +237,5 @@ document.write("        <li><a href='115.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='116.html'><font size=4><font color=darkPurple><b>116</b></font> - <font color=darkGreen>﻿अब इसके बाद (द्वितीय अन्तराधिकार में सर्वप्रथम) जीवादि नवपदार्थों का मुख्य वृत्ति से नाम और गौण वृत्ति से स्वरूप कहते हैं</font></font></a></li>");
 document.write("        <li><a href='117.html'><font size=4><font color=darkPurple><b>117</b></font> - <font color=darkBlue>﻿जीव के स्वरूप का निरूपण करते हैं</font></font></a></li>");
 document.write("        <li><a href='118.html'><font size=4><font color=darkPurple><b>118</b></font> - <font color=darkGreen>﻿अब पृथ्वीकाय आदि पाँच भेदों का प्रतिपादन करते हैं</font></font></a></li>");
+document.write("        <li><a href='119.html'><font size=4><font color=darkPurple><b>119</b></font> - <font color=darkBlue>﻿व्यवहार से अग्नि और वायुकायिक जीवों के त्रसपना दिखाते हैं</font></font></a></li>");
 document.write("</ul></div>");
