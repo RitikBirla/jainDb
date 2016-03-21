@@ -123,7 +123,7 @@ document.write("        <li><a href='131.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='132.html'><font size=4><font color=darkPurple><b>124</b></font> - <font color=darkBlue>﻿अजीव-तत्त्व प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='133.html'><font size=4><font color=darkPurple><b>125</b></font> - <font color=darkGreen>﻿अब आकाशादि के ही अचेतनत्व सिद्ध करने में और भी कारण कहता हूँ; ऐसा अभिप्राय मन में धारण कर यह सूत्र प्रतिपादित करते हैं --</font></font></a></li>");
 document.write("        <li><a href='134-135.html'><font size=4><font color=darkPurple><b>126-127</b></font> - <font color=darkBlue>﻿भेद-भावनार्थ देहगत शुद्ध जीव प्रतिपादन</font></font></a></li>");
-document.write("        <li><a href='136-138.html'><font size=4>128-130</font></a></li>");
+document.write("        <li><a href='136-137-138.html'><font size=4><font color=darkPurple><b>128-129-130</b></font> - <font color=darkGreen>﻿इससे आगे अब जो पहले कथंचित् परिणामित्व के बल से जीव-पुद्गल का संयोग-परिणाम स्थापित किया था वह ही आगे कहे जाने वाले पुण्यादि सात पदार्थों का कारण, बीज जानना चाहिए (इसे तीन गाथाओं द्वारा स्पष्ट करते हैं) --</font></font></a></li>");
 document.write("        <li><a href='139.html'><font size=4><font color=darkPurple><b>131</b></font> - <font color=darkBlue>﻿भाव पुण्य-पाप-योग्य परिणाम की सूचना</font></font></a></li>");
 document.write("        <li><a href='140.html'><font size=4><font color=darkPurple><b>132</b></font> - <font color=darkGreen>﻿द्रव्य-भाव पुण्य-पाप का व्याख्यान</font></font></a></li>");
 document.write("        <li><a href='141.html'><font size=4><font color=darkPurple><b>133</b></font> - <font color=darkBlue>﻿पुण्य-पाप का मुर्तत्व-समर्थन</font></font></a></li>");
