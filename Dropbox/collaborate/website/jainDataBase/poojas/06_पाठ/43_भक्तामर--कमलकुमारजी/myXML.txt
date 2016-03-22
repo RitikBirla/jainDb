@@ -1,11 +1,12 @@
 <book>
   <page>
     <name>01</name>
-    <main>﻿&lt;b&gt;&lt;span class=abc&gt;आचार्य मानतुंग कृत, पं कमलकुमारजी शास्त्री द्वारा हिंदी अनुवाद
-तर्ज : आओ बच्चों तुम्हे दिखाएं
-जिसने राग द्वेष कामादिक जीते
-फूल तुम्हें भेजा है ख़त में
-कसमें वादे प्यार वफा&lt;/b&gt;&lt;/span&gt;
+    <main>﻿&lt;b&gt;&lt;span class=abc&gt;आचार्य मानतुंग कृत, पं कमलकुमारजी शास्त्री द्वारा हिंदी अनुवाद&lt;/b&gt;&lt;/span&gt;
+
+&lt;b&gt;&lt;span class=abc&gt;तर्ज : आओ बच्चों तुम्हे दिखाएं&lt;/b&gt;&lt;/span&gt;
+&lt;b&gt;&lt;span class=abc&gt;जिसने राग द्वेष कामादिक जीते&lt;/b&gt;&lt;/span&gt;
+&lt;b&gt;&lt;span class=abc&gt;फूल तुम्हें भेजा है ख़त में&lt;/b&gt;&lt;/span&gt;
+&lt;b&gt;&lt;span class=abc&gt;कसमें वादे प्यार वफा&lt;/b&gt;&lt;/span&gt;
 
 भक्त अमर नत मुकुट सु-मणियों, की सु-प्रभा का जो भासक
 पाप रूप अति सघन तिमिर का, ज्ञान-दिवाकर-सा नाशक
