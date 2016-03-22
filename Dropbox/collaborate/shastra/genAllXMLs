@@ -4,6 +4,8 @@ curDir=$PWD
 convert=
 [ "$1" = "-c" ] && convert="-c"
 
+export dbDir=$(echo $PWD | perl -i -pe 's/(.*Dropbox).*/$1/g')
+
 while read oDir; do
   oDir=$(echo "$oDir" | tr -d '\r')
   echo $curDir/$oDir
@@ -12,7 +14,7 @@ while read oDir; do
     iDir=$(echo "$iDir" | tr -d '\r')
 	cd $curDir/$oDir/$iDir
     echo $PWD
-    /mnt/hgfs/winshare/Personal/Dropbox/collaborate/createXML.sh $convert
+    $dbDir/collaborate/createXML $convert
   done < "index.txt"
   cd $curDir
 done < "index.txt"

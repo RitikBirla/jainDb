@@ -129,6 +129,8 @@ document.write("        <li><a href='140.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='141.html'><font size=4><font color=darkPurple><b>133</b></font> - <font color=darkBlue>﻿पुण्य-पाप का मुर्तत्व-समर्थन</font></font></a></li>");
 document.write("        <li><a href='142.html'><font size=4><font color=darkPurple><b>134</b></font> - <font color=darkGreen>﻿कथंचित मूर्त जीव का मूर्त कर्म के साथ बन्ध प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='143.html'><font size=4><font color=darkPurple><b>135</b></font> - <font color=darkBlue>﻿पुण्यास्रव प्रतिपादक</font></font></a></li>");
+document.write("        <li><a href='144.html'><font size=4>136</font></a></li>");
+document.write("        <li><a href='145.html'><font size=4>137</font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
