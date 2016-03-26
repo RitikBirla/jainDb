@@ -135,6 +135,8 @@ document.write("        <li><a href='146.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='147.html'><font size=4><font color=darkPurple><b>139</b></font> - <font color=darkBlue>﻿पापास्रव प्रतिपादक</font></font></a></li>");
 document.write("        <li><a href='148.html'><font size=4><font color=darkPurple><b>140</b></font> - <font color=darkGreen>﻿अब भाव पापास्रव का विस्तार से कथन करते हैं</font></font></a></li>");
 document.write("        <li><a href='149.html'><font size=4><font color=darkPurple><b>141</b></font> - <font color=darkBlue>﻿संवर पदार्थ प्रतिपादक अंतराधिकार</font></font></a></li>");
+document.write("        <li><a href='150.html'><font size=4><font color=darkPurple><b>142</b></font> - <font color=darkGreen>﻿अब सामान्य से पुण्य-पाप संवर का स्वरूप कहते हैं</font></font></a></li>");
+document.write("        <li><a href='151.html'><font size=4><font color=darkPurple><b>143</b></font> - <font color=darkBlue>﻿अब अयोग-केवली जिन (चौदहवें) गुणस्थान की अपेक्षा सम्पूर्ण पुण्य-पाप-संवर का प्रतिपादन करते हैं </font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
