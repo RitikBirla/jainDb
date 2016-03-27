@@ -137,6 +137,14 @@ document.write("        <li><a href='148.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='149.html'><font size=4><font color=darkPurple><b>141</b></font> - <font color=darkBlue>﻿संवर पदार्थ प्रतिपादक अंतराधिकार</font></font></a></li>");
 document.write("        <li><a href='150.html'><font size=4><font color=darkPurple><b>142</b></font> - <font color=darkGreen>﻿अब सामान्य से पुण्य-पाप संवर का स्वरूप कहते हैं</font></font></a></li>");
 document.write("        <li><a href='151.html'><font size=4><font color=darkPurple><b>143</b></font> - <font color=darkBlue>﻿अब अयोग-केवली जिन (चौदहवें) गुणस्थान की अपेक्षा सम्पूर्ण पुण्य-पाप-संवर का प्रतिपादन करते हैं </font></font></a></li>");
+document.write("        <li><a href='152.html'><font size=4><font color=darkPurple><b>144</b></font> - <font color=darkGreen>﻿निर्जरा पदार्थ प्रतिपादक अंतराधिकार</font></font></a></li>");
+document.write("        <li><a href='153.html'><font size=4><font color=darkPurple><b>145</b></font> - <font color=darkBlue>﻿अब मुख्य वृत्ति से आत्म-ध्यान निर्जरा का कारण है, ऐसा प्रगट करते हैं</font></font></a></li>");
+document.write("        <li><a href='154.html'><font size=4><font color=darkPurple><b>146</b></font> - <font color=darkGreen>﻿अब पहले जो निर्जरा का कारण ध्यान कहा गया है, उसे उत्पन्न करने वाली सामग्री और लक्षण का प्रतिपादन करते हैं</font></font></a></li>");
+document.write("        <li><a href='155.html'><font size=4><font color=darkPurple><b>147</b></font> - <font color=darkBlue>﻿बन्ध पदार्थ प्रतिपादक अंतराधिकार</font></font></a></li>");
+document.write("        <li><a href='156.html'><font size=4><font color=darkPurple><b>148</b></font> - <font color=darkGreen>﻿अब, बहिरंग-अंतरंग बंध के कारण का उपदेश देते हैं</font></font></a></li>");
+document.write("        <li><a href='157.html'><font size=4><font color=darkPurple><b>149</b></font> - <font color=darkBlue>﻿अब, बंध का बहिरंग निमित्त मात्र योग ही नहीं है, अपितु द्रव्यत्व-रूप मिथ्यात्वादि द्रव्य प्रत्यय भी रागादि भाव-प्रत्यय की अपेक्षा बहिरंग निमित्त हैं; ऐसा समर्थन करते हैं</font></font></a></li>");
+document.write("        <li><a href='158.html'><font size=4><font color=darkPurple><b></b></font> - <font color=darkGreen>﻿भाव-मोक्ष-रूप एकदेश मोक्ष का व्याख्यान</font></font></a></li>");
+document.write("        <li><a href='150-151.html'><font size=4>150-151</font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
