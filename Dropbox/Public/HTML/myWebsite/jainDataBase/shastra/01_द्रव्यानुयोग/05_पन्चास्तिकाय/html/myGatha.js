@@ -145,6 +145,8 @@ document.write("        <li><a href='156.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='157.html'><font size=4><font color=darkPurple><b>149</b></font> - <font color=darkBlue>﻿अब, बंध का बहिरंग निमित्त मात्र योग ही नहीं है, अपितु द्रव्यत्व-रूप मिथ्यात्वादि द्रव्य प्रत्यय भी रागादि भाव-प्रत्यय की अपेक्षा बहिरंग निमित्त हैं; ऐसा समर्थन करते हैं</font></font></a></li>");
 document.write("        <li><a href='158.html'><font size=4><font color=darkPurple><b></b></font> - <font color=darkGreen>﻿भाव-मोक्ष-रूप एकदेश मोक्ष का व्याख्यान</font></font></a></li>");
 document.write("        <li><a href='150-151.html'><font size=4>150-151</font></a></li>");
+document.write("        <li><a href='160.html'><font size=4><font color=darkPurple><b>152</b></font> - <font color=darkGreen>﻿द्रव्य-कर्म-मोक्ष प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='161.html'><font size=4><font color=darkPurple><b>153</b></font> - <font color=darkBlue>﻿अब सकल मोक्ष नामक द्रव्य-मोक्ष का आवेदन करते हैं (मर्यादापूर्वक ज्ञान कराते हैं) -</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
