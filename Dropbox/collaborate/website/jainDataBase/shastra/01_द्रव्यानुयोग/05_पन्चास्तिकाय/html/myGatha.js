@@ -151,6 +151,10 @@ document.write("        <li><a href='162.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='163.html'><font size=4><font color=darkPurple><b>155</b></font> - <font color=darkBlue>﻿स्वसमय-परसमय प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='164.html'><font size=4><font color=darkPurple><b>156</b></font> - <font color=darkGreen>﻿परसमय का विशेष विवरण </font></font></a></li>");
 document.write("        <li><a href='165.html'><font size=4>157</font></a></li>");
+document.write("        <li><a href='166.html'><font size=4><font color=darkPurple><b>158</b></font> - <font color=darkGreen>﻿स्व-समय का विशेष विवरण </font></font></a></li>");
+document.write("        <li><a href='167.html'><font size=4>159</font></a></li>");
+document.write("        <li><a href='168.html'><font size=4><font color=darkPurple><b>160</b></font> - <font color=darkGreen>﻿व्यवहार मोक्ष-मार्ग का निरूपण</font></font></a></li>");
+document.write("        <li><a href='169.html'><font size=4><font color=darkPurple><b>161</b></font> - <font color=darkBlue>﻿निश्चय मोक्ष-मार्ग का प्रतिपादन</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
@@ -310,4 +314,7 @@ document.write("        <li><a href='157.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='158-159.html'><font size=4><font color=darkPurple><b>158-159</b></font> - <font color=darkBlue>﻿अब चार द्रव्य-घाति-कर्म और मोक्ष के हेतु-भूत परम-संवर रूप भाव-मोक्ष को कहते हैं</font></font></a></li>");
 document.write("        <li><a href='160.html'><font size=4><font color=darkPurple><b>160</b></font> - <font color=darkGreen>﻿द्रव्य-कर्म-मोक्ष प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='161.html'><font size=4><font color=darkPurple><b>161</b></font> - <font color=darkBlue>﻿अब सकल मोक्ष नामक द्रव्य-मोक्ष का आवेदन करते हैं (मर्यादापूर्वक ज्ञान कराते हैं) -</font></font></a></li>");
+document.write("        <li><a href='162.html'><font size=4><font color=darkPurple><b>162</b></font> - <font color=darkGreen>﻿जीव-स्वभाव</font></font></a></li>");
+document.write("        <li><a href='163.html'><font size=4><font color=darkPurple><b>163</b></font> - <font color=darkBlue>﻿स्वसमय-परसमय प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='164.html'><font size=4><font color=darkPurple><b>164</b></font> - <font color=darkGreen>﻿परसमय का विशेष विवरण </font></font></a></li>");
 document.write("</ul></div>");
