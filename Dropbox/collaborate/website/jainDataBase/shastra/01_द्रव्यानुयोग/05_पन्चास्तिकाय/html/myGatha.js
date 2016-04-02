@@ -155,6 +155,10 @@ document.write("        <li><a href='166.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='167.html'><font size=4>159</font></a></li>");
 document.write("        <li><a href='168.html'><font size=4><font color=darkPurple><b>160</b></font> - <font color=darkGreen>﻿व्यवहार मोक्ष-मार्ग का निरूपण</font></font></a></li>");
 document.write("        <li><a href='169.html'><font size=4><font color=darkPurple><b>161</b></font> - <font color=darkBlue>﻿निश्चय मोक्ष-मार्ग का प्रतिपादन</font></font></a></li>");
+document.write("        <li><a href='170.html'><font size=4>162</font></a></li>");
+document.write("        <li><a href='171.html'><font size=4><font color=darkPurple><b>163</b></font> - <font color=darkBlue>﻿भाव सम्यग्दृष्टि व्याख्यान</font></font></a></li>");
+document.write("        <li><a href='172.html'><font size=4><font color=darkPurple><b>164</b></font> - <font color=darkGreen>﻿निश्चय-व्यवहार रत्नत्रय का फल</font></font></a></li>");
+document.write("        <li><a href='173.html'><font size=4><font color=darkPurple><b>165</b></font> - <font color=darkBlue>﻿स्थुल-सूक्ष्म पर-समय का व्याख्यान</font></font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
