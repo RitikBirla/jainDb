@@ -150,7 +150,7 @@ document.write("        <li><a href='161.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='162.html'><font size=4><font color=darkPurple><b>154</b></font> - <font color=darkGreen>﻿जीव-स्वभाव</font></font></a></li>");
 document.write("        <li><a href='163.html'><font size=4><font color=darkPurple><b>155</b></font> - <font color=darkBlue>﻿स्वसमय-परसमय प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='164.html'><font size=4><font color=darkPurple><b>156</b></font> - <font color=darkGreen>﻿परसमय का विशेष विवरण </font></font></a></li>");
-document.write("        <li><a href='165.html'><font size=4>157</font></a></li>");
+document.write("        <li><a href='165.html'><font size=4><font color=darkPurple><b>157</b></font> - <font color=darkBlue>﻿अब परचारित्र परिणत पुरुष के बंध देखकर मोक्ष का निषेध करते हैं; अथवा पूर्वोक्त ही परसमय के स्वरूप को वृद्धमत-संवाद से (जिनेन्द्र भगवान के कथन से) दृ़ढ करते हैं</font></font></a></li>");
 document.write("        <li><a href='166.html'><font size=4><font color=darkPurple><b>158</b></font> - <font color=darkGreen>﻿स्व-समय का विशेष विवरण </font></font></a></li>");
 document.write("        <li><a href='167.html'><font size=4>159</font></a></li>");
 document.write("        <li><a href='168.html'><font size=4><font color=darkPurple><b>160</b></font> - <font color=darkGreen>﻿व्यवहार मोक्ष-मार्ग का निरूपण</font></font></a></li>");
@@ -159,6 +159,8 @@ document.write("        <li><a href='170.html'><font size=4>162</font></a></li>"
 document.write("        <li><a href='171.html'><font size=4><font color=darkPurple><b>163</b></font> - <font color=darkBlue>﻿भाव सम्यग्दृष्टि व्याख्यान</font></font></a></li>");
 document.write("        <li><a href='172.html'><font size=4><font color=darkPurple><b>164</b></font> - <font color=darkGreen>﻿निश्चय-व्यवहार रत्नत्रय का फल</font></font></a></li>");
 document.write("        <li><a href='173.html'><font size=4><font color=darkPurple><b>165</b></font> - <font color=darkBlue>﻿स्थुल-सूक्ष्म पर-समय का व्याख्यान</font></font></a></li>");
+document.write("        <li><a href='174.html'><font size=4>166</font></a></li>");
+document.write("        <li><a href='175.html'><font size=4>167</font></a></li>");
 document.write("</ul></div>");
 document.write("<div id=जयसेनाचार्य class='dropdown dropdown-tip dropdown-scroll'>");
 document.write("  <ul class=dropdown-menu>");
@@ -321,4 +323,6 @@ document.write("        <li><a href='161.html'><font size=4><font color=darkPurp
 document.write("        <li><a href='162.html'><font size=4><font color=darkPurple><b>162</b></font> - <font color=darkGreen>﻿जीव-स्वभाव</font></font></a></li>");
 document.write("        <li><a href='163.html'><font size=4><font color=darkPurple><b>163</b></font> - <font color=darkBlue>﻿स्वसमय-परसमय प्रतिपादन</font></font></a></li>");
 document.write("        <li><a href='164.html'><font size=4><font color=darkPurple><b>164</b></font> - <font color=darkGreen>﻿परसमय का विशेष विवरण </font></font></a></li>");
+document.write("        <li><a href='165.html'><font size=4><font color=darkPurple><b>165</b></font> - <font color=darkBlue>﻿अब परचारित्र परिणत पुरुष के बंध देखकर मोक्ष का निषेध करते हैं; अथवा पूर्वोक्त ही परसमय के स्वरूप को वृद्धमत-संवाद से (जिनेन्द्र भगवान के कथन से) दृ़ढ करते हैं</font></font></a></li>");
+document.write("        <li><a href='166.html'><font size=4><font color=darkPurple><b>166</b></font> - <font color=darkGreen>﻿स्व-समय का विशेष विवरण </font></font></a></li>");
 document.write("</ul></div>");
